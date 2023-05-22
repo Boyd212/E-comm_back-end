@@ -1,3 +1,33 @@
+## E-comm Back-End
+
+A command-line interfae using Expresss and Node to use Sequelize to interact with a MySQL Database.
+
+# Motivation
+
+As a busy user with many products for sale online, I need a simple way to interact with and update and read the databases of my inventory process.
+
+# Installation
+
+Copy reposity, run "npm install" to add dependencies such as "MySQL2" and "Sequelize"
+In a MySQL terminal, source the schema.js file in the db folder to create the databases
+Either exit MySQL, or open a new terminal and run "node seeds/index.js" to seed the original databases
+Either run "npm start," or "node server.js" to lauch server on port 3001
+Switch to a database management tool, such as INSOMNIA, to test route ends "GET, POST, DEL, PUT" and more
+
+# License
+
+N/A
+
+# Author
+
+Matthew Boyd
+
+# GitHub Repository
+https://drive.google.com/file/d/1SdCBzfHLDxnWAiEQDxS7MXD_XQoTVYzb/view
+
+# Walkthrough Video Link
+https://drive.google.com/file/d/1SdCBzfHLDxnWAiEQDxS7MXD_XQoTVYzb/view
+===================================================================================================================
 # 13 Object-Relational Mapping (ORM): E-Commerce Back End
 
 ## Your Task
