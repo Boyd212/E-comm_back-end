@@ -23,7 +23,7 @@ N/A
 Matthew Boyd
 
 # GitHub Repository
-https://drive.google.com/file/d/1SdCBzfHLDxnWAiEQDxS7MXD_XQoTVYzb/view
+https://github.com/Boyd212/E-comm_back-end
 
 # Walkthrough Video Link
 https://drive.google.com/file/d/1SdCBzfHLDxnWAiEQDxS7MXD_XQoTVYzb/view
